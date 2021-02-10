@@ -6,3 +6,4 @@
 <h2> COMMIT 4 </h2>
 <h2> COMMIT 5 </h2>
 <h2> COMMIT 6 </h2>
+<h2> COMMIT 7 </h2>
