@@ -1,13 +1,12 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<h1> CI/CD Stack demo on AWS Cloud</h1>
+<h2> Deploying on a kubernetes cluster in AWS.</h2>
+<h2> -- Source Code Management --> GitHub</h2>
+<h2> -- Build Server --> Jenkins</h2>
+<h2> -- Deploy --> Ansible</h2>
 <h2> Glad to see you here RAJIB </h2>
-<h2> COMMIT 2 </h2>
-<h2> COMMIT 3 </h2>
-<h2> COMMIT 4 </h2>
-<h2> COMMIT 5 </h2>
-<h2> COMMIT 6 </h2>
-<h2> COMMIT 7 </h2>
-<h2> COMMIT 8 </h2>
-<h2> COMMIT 9 </h2>
-<h2> COMMIT 10 </h2>
-<h2> COMMIT 11 </h2>
+<p>Commit 1</p>
+</body>
+</html>
