@@ -9,5 +9,6 @@ Deployment - <b>Ansible</b></pre>
 <p>Number of commits:</p>
 <p>Commit 01</p>
 <p>Commit 02</p>
+<p>Commit 03 - deploy on k8s</p
 </body>
 </html>
